@@ -1,4 +1,4 @@
-# 🚔 **Los Angeles Crime Dashboard**
+# 🚔 **AI Powered Los Angeles Crime Dashboard**
 
 An interactive web dashboard to explore and analyze real-time crime statistics for Los Angeles. The dashboard leverages **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **interactive visualizations** to provide insights into crime trends, severity, and hotspots.
 
